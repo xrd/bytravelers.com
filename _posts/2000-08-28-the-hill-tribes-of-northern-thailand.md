@@ -156,7 +156,8 @@ before. Heads peered out of windows,
 working paused for a moment as the 
 farang (Westerners) made their way 
 through the village to the tourist hut. 
-*Walking through the village was a time-
+
+Walking through the village was a time-
 warp back hundreds of years. Michael J. 
 Fox had nothing on us. I can't even 
 begin to explain the impression and 

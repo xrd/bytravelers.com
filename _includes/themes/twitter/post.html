@@ -5,8 +5,17 @@
 <div class="row-fluid post-full">
   <div class="span12">
     <div class="date">
-      <span>{{ page.date | date_to_long_string }}</strong>
+      <span>{{ page.date | date_to_long_string }}</span>
     </div>
+
+    {% if page.author %}
+    <div class="author">
+      <span><h3>Written by: {{ page.author }}</h3></span>
+      <span><strong>about: {{ page.location }}</strong></span>
+    </div>
+    <br/>
+    {% endif %}
+
     <div class="content">
       {{ content }}
     </div>

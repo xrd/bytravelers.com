@@ -9,7 +9,7 @@ tags: []
 ---
 
 
-	Suddenly one of the men stands up and begins to 
+Suddenly one of the men stands up and begins to 
 sing, loudly, proudly, passionately. Heads nod with 
 approval. A woman in gold beads joins in. 
 Several others, our table included, brighten with the music 

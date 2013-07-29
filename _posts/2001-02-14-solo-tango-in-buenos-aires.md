@@ -9,7 +9,7 @@ tags: []
 ---
 
 
-	It’s just before dawn, and our small group of Argentines 
+It’s just before dawn, and our small group of Argentines 
 and Americans are tired and filled with reverie after a 
 night of tango. We’re drooped over cafés con leche on an old 
 wooden table in a run-down nineteenth-century coffee shop. 
@@ -182,8 +182,6 @@ Buenos Aires. And if I also find tremendous pleasure from a
 man’s deep embrace with no strings attached, well, who can 
 blame me?
 	However, along with all of its other qualities, a tango
-
-
 
 
 

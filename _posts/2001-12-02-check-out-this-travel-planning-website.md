@@ -15,5 +15,3 @@ http://www.travel-ascending.com/
 
 
 
-
-

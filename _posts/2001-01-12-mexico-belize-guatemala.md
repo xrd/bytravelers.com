@@ -16,7 +16,7 @@ Wow how time flies when you are enjoying the hot temps,
 clear skies
 and warm ocean. Not to forget the interesting Mayan Ruins 
 and local
-Indian cultures and colours. 
+Indian cultures and colours.
 
 Cervesa (beer) tastes better in hot weather!
 
@@ -46,7 +46,7 @@ Chiapas
 6. Tuxtla Guiterrez - capital of Chiapas. Sumidero Canyon 
 was
 impressive (1 km high, 4km long, and tons of Crocs and 
-birdlife). 
+birdlife).
 
 7. San Cristobal - Pretty town in the Chiapas mountains. 
 Lots of
@@ -127,7 +127,6 @@ she came done
 with an upset stomach!
 
 Anyway that´s about it for this email
-
 
 
 

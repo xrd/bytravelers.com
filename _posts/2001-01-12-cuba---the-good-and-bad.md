@@ -44,7 +44,7 @@ We as tourists were let off Scott free. One girl i met in
 the main square during a rave (no not a hooker!) was 
 reluctant to show me how to Salsa due to her being afraid 
 of being arrested by the cops as a prostitute (and no she 
-wasn't just using it as an excuse to get away from me!). 
+wasn't just using it as an excuse to get away from me!).
 
 Enough negativity for now, the one thing that keeps you 
 going is the live bands playing everywhere - rumba, salsa, 
@@ -81,7 +81,7 @@ work there. A type of segregation you could say. Besides
 they couldn't afford to stay. Racism is running rife in 
 that black negros are considered bottom of the pile 
 followed by the Moletos (mixed races). Top is of course 
-those of Spanish decent. 
+those of Spanish decent.
 
 Those thinking of travelling independently are in for a 
 tough time. The only feasible way of affording a night's 
@@ -126,7 +126,6 @@ libres, cheap prostitutes ...did I say that...whoops.. only
 the Italians and French partake in that kind of activity!!
 
 Cheers
-
 
 
 

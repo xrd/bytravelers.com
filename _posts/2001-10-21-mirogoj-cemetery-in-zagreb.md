@@ -102,5 +102,3 @@ limiting your power over the future.
 
 
 
-
-

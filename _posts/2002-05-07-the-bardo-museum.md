@@ -27,7 +27,7 @@ But our itinerary allows us the time to study the expertise
 involved in putting these artworks together. There are wall 
 mosaics, floor mosaics, and gravestone mosaics. They depict 
 all sorts of themes from myths to pictures of everyday 
-life.   
+life.
 
 Some of the exhibition areas in the Bardo museum are 
 devoted to displaying artefacts from particular areas or 
@@ -40,9 +40,7 @@ to the display of articles found in a recently discovered
 ancient ship wreck.
 
 You can see some photos and read more about Tunisia at 
-http://travelsnapz.tripod.com 
-
-  
+http://travelsnapz.tripod.com
 
 
 

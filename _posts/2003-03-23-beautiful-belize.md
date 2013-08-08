@@ -5,6 +5,8 @@ description: ""
 category:
 author: "RE Ausetkmt (ausetkmt)"
 location: "Belize"
+lat: 17.497713
+lng: -88.186654
 tags: []
 ---
 

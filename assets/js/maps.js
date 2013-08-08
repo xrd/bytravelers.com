@@ -12,9 +12,10 @@ mod.directive('leafletMap', function() {
     lat = center[0];
     lng = center[1];
     zoom = center[2];
-    if (zoom == null) {
+    if ((zoom == null) || zoom === "") {
       zoom || (zoom = 8);
     }
+    alert("Zoom: " + zoom);
     console.log("Id: " + id);
     map = L.map(id, {
       center: [lat, lng],

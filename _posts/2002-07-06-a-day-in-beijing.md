@@ -5,6 +5,8 @@ description: ""
 category:
 author: "Danny Spitler (dispitler)"
 location: "China, People's Republic of"
+lat: "6.904408699999999"
+lng: "79.8714212"
 tags: []
 ---
 

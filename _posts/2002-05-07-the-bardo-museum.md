@@ -5,6 +5,8 @@ description: ""
 category:
 author: "Richard (Travelsnapz)"
 location: "Tunisia"
+lat: "33.886917"
+lng: "9.537499"
 tags: []
 ---
 

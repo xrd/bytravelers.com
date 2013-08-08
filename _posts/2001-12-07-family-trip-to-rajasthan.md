@@ -5,6 +5,8 @@ description: ""
 category:
 author: "maniraji"
 location: "India"
+lat: "20.593684"
+lng: "78.96288"
 tags: []
 ---
 

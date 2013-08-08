@@ -5,6 +5,8 @@ description: ""
 category:
 author: "MD"
 location: "Cuba"
+lat: "21.521757"
+lng: "-77.781167"
 tags: []
 ---
 
@@ -93,19 +95,19 @@ licence and the culprit would lose their hand! Rather
 barbaric but effective.
 
 Of the places I reccommend...
-**Trinidad... is a very pretty colonial town and backs intl 
+Trinidad... is a very pretty colonial town and backs intl 
 the Play Ancon (nice white sanded Caribbean beach and 
 excellent for scuba).
-**Vinales... has a beautiful backdrop of smoothfaced 
+Vinales... has a beautiful backdrop of smoothfaced 
 limestone mountains to contrast the bright orange soils and 
 green and brown tobacco leaves
-**Havana....check out the old town (slowly being 
+Havana....check out the old town (slowly being 
 renovated), have a ride in one of the many 1950s chevy 
 taxis (that's only if you like smell of petrol fumes), 
 exclusive Mirimar (the equivalent of Beverley Hills in the 
 1950s with huge mansions), Hemmingway History...and of 
 course the "Tropicana" caberet. 
-**Santiago de Cuba...learn all about the home of Ron (RUM) 
+Santiago de Cuba...learn all about the home of Ron (RUM) 
 from the Bacardi family museum, visit many secluded 
 uncrowded beaches, the castillo (castle) del Morro (famous 
 site of battles between the US and Spanish in thelate 

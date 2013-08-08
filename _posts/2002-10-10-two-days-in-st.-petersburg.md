@@ -5,6 +5,8 @@ description: ""
 category:
 author: "Danny Spitler (dispitler)"
 location: "Russian Federation"
+lat: "61.52401"
+lng: "105.318756"
 tags: []
 ---
 

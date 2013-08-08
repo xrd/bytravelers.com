@@ -5,6 +5,8 @@ description: ""
 category:
 author: "Danny Spitler (dispitler)"
 location: "Thailand"
+lat: "15.870032"
+lng: "100.992541"
 tags: []
 ---
 

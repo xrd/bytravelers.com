@@ -5,6 +5,8 @@ description: ""
 category:
 author: "MD"
 location: "Mexico"
+lat: "23.634501"
+lng: "-102.552784"
 tags: []
 ---
 

@@ -5,6 +5,8 @@ description: ""
 category:
 author: "MD"
 location: "South Africa"
+lat: "-30.559482"
+lng: "22.937506"
 tags: []
 ---
 

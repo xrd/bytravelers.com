@@ -5,6 +5,8 @@ description: ""
 category:
 author: "jig_tt"
 location: "Bhutan"
+lat: "27.514162"
+lng: "90.433601"
 tags: []
 ---
 

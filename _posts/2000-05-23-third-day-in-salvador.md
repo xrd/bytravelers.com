@@ -5,6 +5,8 @@ description: ""
 category:
 author: "Chris Dawson (cdawson)"
 location: "Brazil"
+lat: "-14.235004"
+lng: "-51.92528"
 tags: []
 ---
 

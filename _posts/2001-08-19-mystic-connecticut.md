@@ -5,6 +5,8 @@ description: ""
 category:
 author: "jessica"
 location: "United States"
+lat: "37.09024"
+lng: "-95.712891"
 tags: []
 ---
 

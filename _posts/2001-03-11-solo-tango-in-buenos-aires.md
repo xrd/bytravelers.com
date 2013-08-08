@@ -5,6 +5,8 @@ description: ""
 category:
 author: "Cherie Magnus (macfroggy)"
 location: "Argentina"
+lat: "-38.416097"
+lng: "-63.61667199999999"
 tags: []
 ---
 

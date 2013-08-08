@@ -15,7 +15,6 @@ mod.directive('leafletMap', function() {
     if ((zoom == null) || zoom === "") {
       zoom || (zoom = 8);
     }
-    alert("Zoom: " + zoom);
     console.log("Id: " + id);
     map = L.map(id, {
       center: [lat, lng],

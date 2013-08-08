@@ -8,7 +8,6 @@ mod.directive 'leafletMap', () ->
                 lng = center[1]
                 zoom = center[2]
                 zoom ||= 8 if not zoom? or zoom == ""
-                alert( "Zoom: #{zoom}" )
                 console.log "Id: #{id}"
                 map = L.map id,
                         center: [ lat, lng ]

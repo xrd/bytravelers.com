@@ -3,9 +3,10 @@ layout: post
 title: "Romantic Prague"
 description: ""
 category:
-author: "Danny Spitler (dispitler)"
+author: "Danny Spitler"
 location: "Czech Republic"
 lat: "49.81749199999999"
+category: "Danny Spitler"
 lng: "15.472962"
 tags: []
 ---

@@ -3,9 +3,10 @@ layout: post
 title: "A Day in Krakow, Poland"
 description: ""
 category:
-author: "Danny Spitler (dispitler)"
+author: "Danny Spitler"
 location: "Poland"
 lat: "51.919438"
+category: "Danny Spitler"
 lng: "19.145136"
 tags: []
 ---

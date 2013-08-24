@@ -6,6 +6,7 @@ category:
 author: "pointsurf"
 location: "Thailand"
 lat: "15.870032"
+category: "pointsurf"
 lng: "100.992541"
 tags: []
 ---

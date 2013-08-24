@@ -6,6 +6,7 @@ category:
 author: "sharondawson14"
 location: "Germany"
 lat: "51.165691"
+category: "sharondawson14"
 lng: "10.451526"
 tags: []
 ---

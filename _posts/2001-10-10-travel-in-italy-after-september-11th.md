@@ -3,9 +3,10 @@ layout: post
 title: "travel in Italy after September 11th"
 description: ""
 category:
-author: "Chris Dawson (cdawson)"
+author: "Chris Dawson"
 location: "Italy"
 lat: "41.87194"
+category: "Chris Dawson"
 lng: "12.56738"
 tags: []
 ---

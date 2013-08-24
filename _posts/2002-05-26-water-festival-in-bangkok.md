@@ -3,9 +3,10 @@ layout: post
 title: "Water Festival in Bangkok"
 description: ""
 category:
-author: "Danny Spitler (dispitler)"
+author: "Danny Spitler"
 location: "Thailand"
 lat: "15.870032"
+category: "Danny Spitler"
 lng: "100.992541"
 tags: []
 ---

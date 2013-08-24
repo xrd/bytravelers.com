@@ -3,9 +3,10 @@ layout: post
 title: "The Bardo Museum"
 description: ""
 category:
-author: "Richard (Travelsnapz)"
+author: "Richard"
 location: "Tunisia"
 lat: "33.886917"
+category: "Richard"
 lng: "9.537499"
 tags: []
 ---

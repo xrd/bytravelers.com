@@ -3,9 +3,10 @@ layout: post
 title: "Diving in Dubrovnik"
 description: ""
 category:
-author: "Chris Dawson (cdawson)"
+author: "Chris Dawson"
 location: "Croatia"
 lat: "45.1"
+category: "Chris Dawson"
 lng: "15.2"
 tags: []
 ---

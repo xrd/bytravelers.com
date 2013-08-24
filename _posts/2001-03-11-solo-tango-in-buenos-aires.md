@@ -3,9 +3,10 @@ layout: post
 title: "Solo Tango in Buenos Aires"
 description: ""
 category:
-author: "Cherie Magnus (macfroggy)"
+author: "Cherie Magnus"
 location: "Argentina"
 lat: "-38.416097"
+category: "Cherie Magnus"
 lng: "-63.61667199999999"
 tags: []
 ---

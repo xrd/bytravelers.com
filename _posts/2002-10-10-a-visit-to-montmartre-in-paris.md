@@ -3,9 +3,10 @@ layout: post
 title: "A Visit to Montmartre in Paris"
 description: ""
 category:
-author: "Danny Spitler (dispitler)"
+author: "Danny Spitler"
 location: "France"
 lat: "46.227638"
+category: "Danny Spitler"
 lng: "2.213749"
 tags: []
 ---

@@ -3,9 +3,10 @@ layout: post
 title: "Third day in Salvador"
 description: ""
 category:
-author: "Chris Dawson (cdawson)"
+author: "Chris Dawson"
 location: "Brazil"
 lat: "-14.235004"
+category: "Chris Dawson"
 lng: "-51.92528"
 tags: []
 ---

@@ -3,9 +3,10 @@ layout: post
 title: "A Day in Beijing"
 description: ""
 category:
-author: "Danny Spitler (dispitler)"
+author: "Danny Spitler"
 location: "China, People's Republic of"
 lat: "6.904408699999999"
+category: "Danny Spitler"
 lng: "79.8714212"
 tags: []
 ---

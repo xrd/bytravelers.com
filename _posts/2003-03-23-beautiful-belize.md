@@ -3,9 +3,10 @@ layout: post
 title: "Beautiful Belize"
 description: ""
 category:
-author: "RE Ausetkmt (ausetkmt)"
+author: "RE Ausetkmt"
 location: "Belize"
 lat: "17.189877"
+category: "RE Ausetkmt"
 lng: "-88.49765"
 tags: []
 ---

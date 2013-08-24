@@ -3,9 +3,10 @@ layout: post
 title: "Two Days in St. Petersburg"
 description: ""
 category:
-author: "Danny Spitler (dispitler)"
+author: "Danny Spitler"
 location: "Russian Federation"
 lat: "61.52401"
+category: "Danny Spitler"
 lng: "105.318756"
 tags: []
 ---

@@ -7,7 +7,6 @@ author: "Danny Spitler (dispitler)"
 location: "France"
 lat: "46.227638"
 lng: "2.213749"
-zoom: 4
 tags: []
 ---
 

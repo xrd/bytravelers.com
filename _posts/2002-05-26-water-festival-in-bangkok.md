@@ -6,7 +6,7 @@ category:
 author: "Danny Spitler"
 location: "Thailand"
 lat: "15.870032"
-category: "Danny Spitler"
+category: "dispitler"
 lng: "100.992541"
 tags: []
 ---

@@ -6,7 +6,7 @@ category:
 author: "RE Ausetkmt"
 location: "Belize"
 lat: "17.189877"
-category: "RE Ausetkmt"
+category: "ausetkmt"
 lng: "-88.49765"
 tags: []
 ---

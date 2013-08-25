@@ -6,7 +6,7 @@ category:
 author: "Danny Spitler"
 location: "Czech Republic"
 lat: "49.81749199999999"
-category: "Danny Spitler"
+category: "dispitler"
 lng: "15.472962"
 tags: []
 ---

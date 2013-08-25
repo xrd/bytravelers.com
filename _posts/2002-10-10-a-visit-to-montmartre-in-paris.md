@@ -6,7 +6,7 @@ category:
 author: "Danny Spitler"
 location: "France"
 lat: "46.227638"
-category: "Danny Spitler"
+category: "dispitler"
 lng: "2.213749"
 tags: []
 ---

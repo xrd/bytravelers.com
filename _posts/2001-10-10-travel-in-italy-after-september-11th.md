@@ -6,7 +6,7 @@ category:
 author: "Chris Dawson"
 location: "Italy"
 lat: "41.87194"
-category: "Chris Dawson"
+category: "cdawson"
 lng: "12.56738"
 tags: []
 ---

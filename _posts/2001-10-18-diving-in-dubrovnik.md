@@ -6,7 +6,7 @@ category:
 author: "Chris Dawson"
 location: "Croatia"
 lat: "45.1"
-category: "Chris Dawson"
+category: "cdawson"
 lng: "15.2"
 tags: []
 ---

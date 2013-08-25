@@ -6,7 +6,7 @@ category:
 author: "Chris Dawson"
 location: "Brazil"
 lat: "-14.235004"
-category: "Chris Dawson"
+category: "cdawson"
 lng: "-51.92528"
 tags: []
 ---

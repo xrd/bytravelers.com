@@ -6,7 +6,7 @@ category:
 author: "Cherie Magnus"
 location: "Argentina"
 lat: "-38.416097"
-category: "Cherie Magnus"
+category: "macfroggy"
 lng: "-63.61667199999999"
 tags: []
 ---

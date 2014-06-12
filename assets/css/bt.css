@@ -2,7 +2,7 @@ body {
 background-color: #CCCC99
 }
 
-.hero-unit {
+.hero-unit, .navbar {
 background-color: #FFFFCC;
 }
 

@@ -16,7 +16,7 @@
       if ((zoom == null) || zoom === "") {
         zoom || (zoom = 8);
       }
-      return L.mapbox.map(id, 'examples.map-i86nkdio').setView([lat, lng], zoom);
+      return L.mapbox.map(id, 'xrd.igb6dabo').setView([lat, lng], zoom);
     };
     return func;
   });

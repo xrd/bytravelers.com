@@ -8,7 +8,7 @@ mod.directive 'leafletMap', () ->
                 lng = center[1]
                 zoom = center[2]
                 zoom ||= 8 if not zoom? or zoom == ""
-                L.mapbox.map( id, 'examples.map-i86nkdio').setView([ lat, lng ], zoom);
+                L.mapbox.map( id, 'xrd.igb6dabo').setView([ lat, lng ], zoom);
         func
 
 angular.module( 'bt', ['btMaps'] )

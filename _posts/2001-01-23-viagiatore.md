@@ -8,6 +8,7 @@ location: "Italy"
 lat: "41.87194"
 category: "ednanni"
 lng: "12.56738"
+image: tower.gif
 tags: []
 ---
 

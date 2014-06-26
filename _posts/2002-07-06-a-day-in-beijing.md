@@ -8,6 +8,7 @@ location: "China, People's Republic of"
 lat: "6.904408699999999"
 category: "dispitler"
 lng: "79.8714212"
+image: phone.gif
 tags: []
 ---
 

@@ -8,6 +8,7 @@ location: "India"
 lat: "20.593684"
 category: "maniraji"
 lng: "78.96288"
+image: star.gif
 tags: []
 ---
 

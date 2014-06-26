@@ -8,6 +8,7 @@ location: "Italy"
 lat: "41.87194"
 category: "cdawson"
 lng: "12.56738"
+image: book.gif
 tags: []
 ---
 

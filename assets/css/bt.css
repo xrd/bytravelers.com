@@ -16,3 +16,7 @@ height: 150px;
 margin-top: 1em;
 margin-bottom: 1em;
 }
+
+.navbar-inner {
+background-image: none !important;
+}

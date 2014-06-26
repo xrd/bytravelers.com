@@ -8,6 +8,7 @@ location: "Brazil"
 lat: "-14.235004"
 category: "cdawson"
 lng: "-51.92528"
+image: photo.gif
 tags: []
 ---
 

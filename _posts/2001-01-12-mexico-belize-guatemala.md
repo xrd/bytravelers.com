@@ -8,6 +8,7 @@ location: "Mexico"
 lat: "23.634501"
 category: "MD"
 lng: "-102.552784"
+image: phone.gif
 tags: []
 ---
 

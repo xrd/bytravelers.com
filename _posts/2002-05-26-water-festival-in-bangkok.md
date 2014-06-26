@@ -8,6 +8,7 @@ location: "Thailand"
 lat: "15.870032"
 category: "dispitler"
 lng: "100.992541"
+image: photo.gif
 tags: []
 ---
 

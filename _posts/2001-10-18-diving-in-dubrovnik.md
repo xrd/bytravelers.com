@@ -8,6 +8,7 @@ location: "Croatia"
 lat: "45.1"
 category: "cdawson"
 lng: "15.2"
+image: star.gif
 tags: []
 ---
 

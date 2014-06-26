@@ -8,6 +8,7 @@ location: "Argentina"
 lat: "-38.416097"
 category: "macfroggy"
 lng: "-63.61667199999999"
+image: photo.gif
 tags: []
 ---
 

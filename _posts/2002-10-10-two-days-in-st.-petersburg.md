@@ -8,6 +8,7 @@ location: "Russian Federation"
 lat: "61.52401"
 category: "dispitler"
 lng: "105.318756"
+image: tower.gif
 tags: []
 ---
 

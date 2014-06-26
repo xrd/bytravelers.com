@@ -8,6 +8,7 @@ location: "Tunisia"
 lat: "33.886917"
 category: "Travelsnapz"
 lng: "9.537499"
+image: camera.gif
 tags: []
 ---
 

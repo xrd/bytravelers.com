@@ -8,6 +8,7 @@ location: "Germany"
 lat: "51.165691"
 category: "sharondawson14"
 lng: "10.451526"
+image: paper.gif
 tags: []
 ---
 

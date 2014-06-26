@@ -8,6 +8,7 @@ location: "Bhutan"
 lat: "27.514162"
 category: "jig_tt"
 lng: "90.433601"
+image: paper.gif
 tags: []
 ---
 

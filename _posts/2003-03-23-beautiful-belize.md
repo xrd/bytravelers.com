@@ -8,6 +8,7 @@ location: "Belize"
 lat: "17.189877"
 category: "ausetkmt"
 lng: "-88.49765"
+image: book.gif
 tags: []
 ---
 

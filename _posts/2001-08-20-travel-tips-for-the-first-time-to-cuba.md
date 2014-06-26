@@ -8,6 +8,7 @@ location: "Cuba"
 lat: "21.521757"
 category: "vedadohabana"
 lng: "-77.781167"
+image: postcard.gif
 tags: []
 ---
 

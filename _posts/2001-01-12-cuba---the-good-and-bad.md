@@ -8,6 +8,7 @@ location: "Cuba"
 lat: "21.521757"
 category: "MD"
 lng: "-77.781167"
+image: paper.gif
 tags: []
 ---
 

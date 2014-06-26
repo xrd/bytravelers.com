@@ -8,6 +8,7 @@ location: "United States"
 lat: "37.09024"
 category: "jessica"
 lng: "-95.712891"
+image: hut.gif
 tags: []
 ---
 

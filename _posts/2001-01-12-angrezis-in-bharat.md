@@ -8,6 +8,7 @@ location: "India"
 lat: "20.593684"
 category: "MD"
 lng: "78.96288"
+image: camera.gif
 tags: []
 ---
 

@@ -1,6 +1,11 @@
 <div class="page-header">
   <div class="container-fluid">
-    <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+    <h1>
+      <img src="/assets/images/{{ page.image }}">
+      {{ page.title }}
+    </h1>
+    {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}
+
   </div>
 </div>
 

@@ -8,6 +8,7 @@ location: "Thailand"
 lat: "15.870032"
 category: "pointsurf"
 lng: "100.992541"
+image: photo.gif
 tags: []
 ---
 

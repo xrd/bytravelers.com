@@ -8,6 +8,7 @@ location: "Czech Republic"
 lat: "49.81749199999999"
 category: "dispitler"
 lng: "15.472962"
+image: camera.gif
 tags: []
 ---
 

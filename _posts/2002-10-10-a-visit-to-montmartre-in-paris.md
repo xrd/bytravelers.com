@@ -8,6 +8,7 @@ location: "France"
 lat: "46.227638"
 category: "dispitler"
 lng: "2.213749"
+image: star.gif
 tags: []
 ---
 

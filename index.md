@@ -3,10 +3,11 @@ layout: page
 ---
 {% include JB/setup %}
 
+<img src="/assets/images/bytravelers_banner.jpg">
+
 <div class="hero-unit">
 
-<h1> {{ site.title }} </h1>
-
+<h1>{{ site.title }}</h1>
 {{ site.tagline }}
 
 </div>
